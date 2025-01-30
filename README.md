@@ -52,14 +52,12 @@ pip install opencv-python keras tensorflow numpy pywhatkit
 - Implement head pose estimation to detect driver distraction.
 - Add fatigue level monitoring based on multiple facial features.
 - Enhance alert mechanisms with more notification options.
+- **Streamlit Integration for UI**: Develop a user-friendly web interface using Streamlit to display real-time detection results and alerts.
 
 ## License
 
 This project is open-source and available for modification and enhancement.
 
-## Contributors
-
-- Rajath R Pai - Developer and Maintainer
 
 For questions or contributions, feel free to open an issue or submit a pull request!
 
