@@ -97,7 +97,7 @@ def recommend_restaurant(latitude, longitude):
 def send_distress_message():
     try:
         message = "Alert! The driver is feeling sleepy. Please pay attention!"
-        mobile_number = "+918447888238"  # Replace with your mobile number
+        mobile_number = " "  # Replace with your mobile number
         pywhatkit.sendwhatmsg_instantly(mobile_number, message)
         print(f"WhatsApp message sent to {mobile_number}")
     except Exception as e:
